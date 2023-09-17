@@ -1,7 +1,0 @@
-C:\cs\MCHACK\MCHACK\bin\Release\MCHACK.exe.config
-C:\cs\MCHACK\MCHACK\bin\Release\MCHACK.exe
-C:\cs\MCHACK\MCHACK\bin\Release\MCHACK.pdb
-C:\cs\MCHACK\MCHACK\obj\Release\MCHACK.csproj.AssemblyReference.cache
-C:\cs\MCHACK\MCHACK\obj\Release\MCHACK.csproj.CoreCompileInputs.cache
-C:\cs\MCHACK\MCHACK\obj\Release\MCHACK.exe
-C:\cs\MCHACK\MCHACK\obj\Release\MCHACK.pdb
